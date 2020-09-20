@@ -14,7 +14,7 @@ This is a sample project for creating a github repository for scratch. Sample co
 
 ### Todos
 
- - Pending
+ - Random change
  - 
 
 License
